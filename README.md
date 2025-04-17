@@ -19,7 +19,7 @@ La cadena **Alura Store** cuenta con cuatro sucursales y el Sr. Juan desea decid
 3. **Visualización**  
    - Al menos tres gráficos (barras, pastel, dispersión) implementados con **Matplotlib** para ilustrar comparaciones y tendencias.
 
-## 1. Análisis Exploratorio de Datos
+##  Análisis Exploratorio de Datos
 
 Como paso inicial se confirmó que los cuatro conjuntos de datos reúnen las condiciones mínimas de calidad para su procesamiento. En particular:
 
@@ -40,7 +40,13 @@ Como paso inicial se confirmó que los cuatro conjuntos de datos reúnen las con
 - **Coordenadas Geográficas:** latitud y longitud donde se realizó cada transacción.
 
 ### 1.1 Principales hallazgos del analisis 
-- **Ingresos Totales**: sumar la columna `precio` de cada CSV.  
+- **Ingresos Totales**: 
+Los ingresos totales por cada tienda en el periodo de 2020-01-31 al 2023-03-31 fueron
+   - **Tienda 1: $1,150,880,400.00**
+   - **Tienda 2: $1,116,343,500.00**
+   - **Tienda 3: $1,098,019,600.00**
+   - **Tienda 4: $1,038,375,700.00**
+
 - **Categorías más Vendidas**: agrupar por categoría y contar ventas.  
 - **Reseñas de Clientes**: promedio de calificaciones y análisis de comentarios.  
 - **Productos Más/Menos Vendidos**: identificar los top y bottom por volumen.  
@@ -59,7 +65,7 @@ Como paso inicial se confirmó que los cuatro conjuntos de datos reúnen las con
   - Diagramas de dispersión  
   - Mapas de calor, histogramas, etc.
 
-### 3. Recomendación final
+##  Recomendación final
 Innforme breve donde  se indique **qué tienda** debe vender el Sr. Juan y **por qué**, fundamentando tu decisión en cinco aspectos clave:
 1. Facturación total de cada tienda.  
 2. Categorías más populares en cada sucursal.  
