@@ -47,7 +47,32 @@ Los ingresos totales por cada tienda en el periodo de 2020-01-31 al 2023-03-31 f
    - **Tienda 3: $1,098,019,600.00**
    - **Tienda 4: $1,038,375,700.00**
 
-- **Categorías más Vendidas**: agrupar por categoría y contar ventas.  
+- **Categorías más Vendidas**: 
+ La cadena de sucursales ofrece una variedad de productos, los cuales  están agrupados por las siguientes  categorías:  Artículos para el hogar, Deportes y diversión, Electrodomésticos, Electrónicos, Intrumentos musicales,  Juguetes, Libros y Muebles.
+ Las  tres categorías con más ventas  en todas las tiendas fueron Muebles, Eectrónicos y Juguetes. A acontinuación se presentan el número de ventos y los ingresos:
+
+   -**Tienda 1:**
+      - **Muebles**, con un total de 465 de productos vendidos e ingresos de $187,633,700.
+      - **Electrónicos**, con un total de 448 productos vendidos e ingresos de $429,493,500.
+      -**Jueguetes**, con un total de 324 productos vendidos e ingresos de $17,995,700.
+
+   -**Tienda 2:**  
+      - **Muebles**, con un total de 442 de productos vendidos e ingresos de $176,426,300.
+      - **Electrónicos**, con un total de 422 productos vendidos e ingresos de $410,831,100.
+      -**Jueguetes**, con un total de 313 productos vendidos e ingresos de $15,945,400.
+
+   -**Tienda 3:**  
+      - **Muebles**, con un total de 499 de productos vendidos e ingresos de $201,072,100.
+      - **Electrónicos**, con un total de 451 productos vendidos e ingresos de $410,775,800.
+      -**Jueguetes**, con un total de 315 productos vendidos e ingresos de $19,401,100.
+
+   -**Tienda 4:**  
+      - **Muebles**, con un total de 480 de productos vendidos e ingresos de $192,528,900.
+      - **Electrónicos**, con un total de 451 productos vendidos e ingresos de $409,476,100.
+      -**Jueguetes**, con un total de 338 productos vendidos e ingresos de $20,262,200.
+
+En los resultados se destaca que apaesar de ser a Tienda 1 es la que más ingresos ha tenido en el perido de tres años, la Tienda 4 es quién más ingresos tiene en cada una de las categorías más vendidas
+
 - **Reseñas de Clientes**: promedio de calificaciones y análisis de comentarios.  
 - **Productos Más/Menos Vendidos**: identificar los top y bottom por volumen.  
 - **Costo Promedio de Envío**: calcular el envío medio por transacción.
