@@ -73,7 +73,16 @@ Los ingresos totales por cada tienda en el periodo de 2020-01-31 al 2023-03-31 f
 
 En los resultados se destaca que apaesar de ser a Tienda 1 es la que más ingresos ha tenido en el perido de tres años, la Tienda 4 es quién más ingresos tiene en cada una de las categorías más vendidas
 
-- **Reseñas de Clientes**: promedio de calificaciones y análisis de comentarios.  
+- **Reseñas de Clientes**:  
+Con el objetivo,  de conocer la satisfacción del cliente con los productos vendidos, se calculó de manera global las calificaciones  promedio de los clientes para cada tienda. Los resultados fueros los siguientes
+
+   - La calificación promedio de los productos en la **Tienda 1** fue de: **3.98**
+   - La calificación promedio de los productos en la **Tienda 2** fue de: **4.04**
+   - La calificación promedio de los productos en la **Tienda 3** fue de: **4.05**
+   - La calificación promedio de los productos en la **Tienda 4**  fue de: **4.00**
+
+
+
 - **Productos Más/Menos Vendidos**: identificar los top y bottom por volumen.  
 - **Costo Promedio de Envío**: calcular el envío medio por transacción.
 
