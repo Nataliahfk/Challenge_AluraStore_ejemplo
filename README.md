@@ -92,4 +92,4 @@ La cadena **Alura Store** cuenta con cuatro sucursales y el Sr. Juan desea decid
 3. **Visualización**  
    - Gráficos (barras, pastel, dispersión, mapas de densisidad) implementados con **Matplotlib** y **plotly** para ilustrar comparaciones y tendencias.
 
- ## [📊 Informe completo](C:\Users\zaire\Portafolio\Data\challenge_store_one\Reports\Análisis.md)
+ [Informe completo](C:\Users\zaire\Portafolio\Data\challenge_store_one\Reports\Analisis.md) 
