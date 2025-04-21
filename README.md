@@ -47,6 +47,8 @@ Los ingresos totales por cada tienda en el periodo de 2020-01-31 al 2023-03-31 f
    - **Tienda 3: $1,098,019,600.00**
    - **Tienda 4: $1,038,375,700.00**
 
+La Tienda 1 es la que ha generado más ingresos totales en el periodo de tres años. Sin embargo, su rendimiento no necesariamente la hace la opción más eficiente si se considera la relación entre ingresos, costos y satisfacción del cliente. En contraste, Tienda 4, aunque tiene ingresos totales más bajos, muestra una eficiencia en la distribución y en costos.
+
 - **Categorías más Vendidas**: 
  La cadena de sucursales ofrece una variedad de productos, los cuales  están agrupados por las siguientes  categorías:  Artículos para el hogar, Deportes y diversión, Electrodomésticos, Electrónicos, Intrumentos musicales,  Juguetes, Libros y Muebles.
  Las  tres categorías con más ventas  en todas las tiendas fueron Muebles, Eectrónicos y Juguetes. A acontinuación se presentan el número de ventos y los ingresos:
@@ -71,7 +73,7 @@ Los ingresos totales por cada tienda en el periodo de 2020-01-31 al 2023-03-31 f
       - **Electrónicos**, con un total de 451 productos vendidos e ingresos de $409,476,100.
       -**Jueguetes**, con un total de 338 productos vendidos e ingresos de $20,262,200.
 
-En los resultados se destaca que apaesar de ser a Tienda 1 es la que más ingresos ha tenido en el perido de tres años, la Tienda 4 es quién más ingresos tiene en cada una de las categorías más vendidas
+En los resultados se destaca que apaesar de ser a Tienda 1 es la que más ingresos ha tenido en el perido de tres años, la Tienda 4 es quién más ingresos tiene en cada una de las categorías más vendidas. También se destaca por tener un buen balance de ingresos a lo largo de las categorías, siendo consistente en la venta de Electrónica y Muebles. A pesar de tener menores ingresos totales, es una tienda eficiente en términos de ventas por categoría
 
 - **Reseñas de Clientes**:  
 Con el objetivo,  de conocer la satisfacción del cliente con los productos vendidos, se calculó de manera global las calificaciones  promedio de los clientes para cada tienda. Los resultados fueros los siguientes
@@ -80,6 +82,8 @@ Con el objetivo,  de conocer la satisfacción del cliente con los productos vend
    - La calificación promedio de los productos en la **Tienda 2** fue de: **4.04**
    - La calificación promedio de los productos en la **Tienda 3** fue de: **4.05**
    - La calificación promedio de los productos en la **Tienda 4**  fue de: **4.00**
+
+Las Tienda 2 y Tienda 3 tienen las mejores calificaciones promedio, lo que sugiere una mayor satisfacción del cliente. Tienda 1 tiene la calificación más baja (3.98), lo que podría indicar problemas de calidad o atención al cliente. Esto es una señal clara de que Tienda 1 tiene áreas de mejora en su servicio o producto.
 
 - **Productos Más/Menos Vendidos** 
 Dentro del análisis para identificar cuáles fueron los 10 productos más y menos vendidos en cada tienda, se encontraron los siguientes resultados:
@@ -203,19 +207,61 @@ Artículos musicales (guitarras acústicas y eléctricas), electrónica de consu
 
 -**Valor del envío promedio por tienda**
       - El costo de envío promedio de la Tienda 1 es: **26,018.61**
-      - El costo de envío promedio de la Tienda 2 es: **25216.24**
-      - El costo de envío promedio de la Tienda 3 es: **24805.68**
-      - El costo de envío promedio de la Tienda 4 es: **23459.46**
+      - El costo de envío promedio de la Tienda 2 es: **25,216.24**
+      - El costo de envío promedio de la Tienda 3 es: **24,805.68**
+      - El costo de envío promedio de la Tienda 4 es: **23,459.46**
 
+La Tienda 4 tiene el costo de envío más bajo, lo que indica una mayor eficiencia logística. Esto es importante, ya que los costos de envío impactan directamente en los márgenes de ganancia de cada tienda. Aunque también es un factor que está relacionado con su bajo número de ventas en ralación a las otras tiendas.
 
+**Crecimiento de Tiendas a lo largo del tiempo**
+   El crecimiento de las ventas en la Tienda 1 fue:
+    Año     Ingresos
+0  2020  349187000.0
+1  2021  342901100.0
+2  2022  299703300.0
+3  2023   97711100.0
+El crecimiento de las ventas en la Tienda 2 fue:
+    Año     Ingresos
+0  2020  303299100.0
+1  2021  332597000.0
+2  2022  339131800.0
+3  2023   81830500.0
+El crecimiento de las ventas en la Tienda 3 fue:
+    Año     Ingresos
+0  2020  304639600.0
+1  2021  343569600.0
+2  2022  331710000.0
+3  2023   59583800.0
+El crecimiento de las ventas en la Tienda 4 fue:
+    Año     Ingresos
+0  2020  313319100.0
+1  2021  329225400.0
+2  2022  286065100.0
+3  2023   54448700.0
 
+Crecimiento de Ingresos por Año (2020-2023):
 
+Tienda 1: Hubo una caída en ventas en 2023, con una baja significativa de ingresos desde 2022.
 
+Tienda 2: Similar a la Tienda 1, con una caída en 2023.
+
+Tienda 3: A pesar de haber experimentado un buen crecimiento en 2021, también muestra un declive en 2023.
+
+Tienda 4: Aunque también cayó en 2023, se mantuvo más estable que las otras tiendas, con ingresos más consistentes en los años anteriores.
+
+Análisis:
+El crecimiento a largo plazo de las tiendas muestra una tendencia a la baja en todas, pero Tienda 4 ha mostrado un rendimiento más constante. Este crecimiento moderado, combinado con sus costos más bajos, sugiere que la Tienda 4 tiene un potencial de estabilidad y sostenibilidad a largo plazo.
 
 ##  Recomendación final
-Informe breve donde  se indique **qué tienda** debe vender el Sr. Juan y **por qué**, fundamentando tu decisión en cinco aspectos clave:
-1. Facturación total de cada tienda.  
-2. Categorías más populares en cada sucursal.  
-3. Promedio de evaluación de clientes.  
-4. Productos más y menos vendidos.  
-5. Costo promedio de envío.
+
+Con base en los aspectos analizados, la Tienda 1 parece ser la menos eficiente debido a su baja calificación, alto costo de envío y falta de interés en ciertos productos de alto valor. A pesar de ser la tienda con más ingresos totales, la Tienda 1 presenta problemas de satisfacción al cliente y una caída en sus ventas a lo largo del tiempo.
+
+Por lo tanto, la recomendación es vender la Tienda 1. Las principales razones son:
+
+La calificación promedio baja, que sugiere una insatisfacción generalizada de los clientes.
+
+El alto costo de envío, lo que reduce los márgenes de ganancia.
+
+La falta de interés en productos clave, lo que afecta su rendimiento en varias categorías importantes.
+
+Tienda 4 debería ser la candidata para quedarse, ya que tiene un buen rendimiento en ventas, un costo de envío más bajo y una mayor eficiencia logística. Además, su rendimiento más estable la hace una opción más fiable para el futuro.
