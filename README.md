@@ -81,23 +81,131 @@ Con el objetivo,  de conocer la satisfacción del cliente con los productos vend
    - La calificación promedio de los productos en la **Tienda 3** fue de: **4.05**
    - La calificación promedio de los productos en la **Tienda 4**  fue de: **4.00**
 
+- **Productos Más/Menos Vendidos** 
+Dentro del análisis para identificar cuáles fueron los 10 productos más y menos vendidos en cada tienda, se encontraron los siguientes resultados:
+   - **Más vendidos en  Tienda 1**
+      1. Microondas - 60
+      2. TV LED UHD 4K - 60
+      3. Armario - 60
+      4. Secadora de ropa - 58
+      5. Mesa de noche -56
+      6. Bloques de construcción  - 56
+      7. Balón de baloncesto -55
+      8. Bicicleta - 54
+      9. vaso térmico -54
+      10. Refrigerador
+   - **Menos vendidos en Tienda 1**
+      1. Auriculares con micrófono - 33
+      2. Celular ABXY - 33
+      3. Olla de presión - 35
+      4. Pandereta - 36
+      5. Mochila - 39
+      6. Ciencia de datos con Python - 39
+      7. Asistente visrtual - 40
+      8. Muñeca bebé - 40
+      9. Mesa de comedor - 40
+      10. Dinosaurio Rex - 40 
+
+**Fortalezas:**
+La Tienda 1 destaca por productos de electrodomésticos como el microondas, TV LED UHD 4K, y muebles del hogar como el armario y la secadora de ropa. Es una tienda eficiente en la venta de electrónicos y artículos de hogar grandes.
+
+**Debilidades:**
+Sorprende que artículos tecnológicos pequeños (como auriculares con micrófono y el celular ABXY) y libros (Ciencia de datos con Python) sean los menos vendidos. Esto indica que el público objetivo posiblemente no está interesado en artículos tecnológicos pequeños o educativos.
+
+   -**Más vendidos en Tienda 2**
+      1. Iniciando en programación - 65
+      2. Microondas - 62
+      3. Batería - 61
+      4. Guitarra acústica - 58
+      5. Pandereta - 58
+      6. Secadora de ropa -  57
+      7. iphone - 15
+      8. Bloques de construcción - 54
+      9. Armario - 54
+      10. Set de ollas - 52 
+
+   - **Menos vendidos en Tienda 2**
+      1. Juego de mesa -32
+      2. Mesa comedor - 33
+      3. Impresora -34
+      4. Sillón - 35
+      5. Auriculares -37
+      6. Asistente Virtual - 38
+      7. Smart TV - 40
+      8. Celuar ABXY - 41
+      9. Balón de baloncesto - 42
+
+**Fortalezas:**
+Esta tienda muestra una fortaleza significativa en productos culturales, educativos y musicales, encabezados por "Iniciando en programación", y seguida por productos como la guitarra acústica y la pandereta. El microondas y la batería también resaltan.
+
+**Debilidades:**
+Artículos de mobiliario, especialmente juegos de mesa, mesas de comedor y electrónica pequeña (impresora), son puntos débiles. Esta tienda posiblemente atrae más público juvenil o académico interesado en entretenimiento y formación educativa.
+
+   -**Más vendidos en Tienda 3**
+      1. Kit de bancas - 57
+      2. Mesa de comedor - 56
+      3. Cama king - 56
+      4. Set de ollas - 55
+      5. Mesa de noche - 55
+      6. Smart TV - 54
+      7. Estufa - 53
+      8. Cuerda para saltar - 53
+      9. Modelado predictivo - 53
+      10. Carrito de control remoto - 52
+
+   - **Menos vendidos en Tienda 3**
+      1. Bloques de constrcción - 35
+      2. Set de vasos -36
+      3. Mochilla - 36
+      4. Mocroondas - 36
+      5. Vaso térmico - 38
+      6. Guitarra Eléctrica - 38
+      7. Cubertería - 39
+      8. Muñeca bebé - 39
+      9. Auriculares con micrófono - 39
+      10. Asistente vistual - 39
+
+**Fortalezas:**
+La tienda se orienta claramente hacia productos domésticos, especialmente muebles y cocina (kit de bancas, mesa de comedor, cama king, set de ollas, smart TV, estufa). Es probablemente una tienda atractiva para compradores que amueblan o renuevan espacios domésticos completos.
+
+**Debilidades:**
+Sorprendentemente, artículos populares en otras tiendas como los bloques de construcción, microondas y vaso térmico aquí no tienen buen rendimiento. Esto indica claramente una falta de estrategia de promoción hacia artículos pequeños, juguetes y electrónicos menores.
+
+   -**Más vendidos en Tienda 4**
+       1. Cama box - 62
+       2. Cubertería - 59
+       3. Dashboard con Power BI - 56
+       4. Cama king - 56
+       5. Carrito de control remoto - 55
+       6. Mesa de comedor - 55
+       7. Mesa de noche - 55
+       8. Smart TV - 54
+       9. Bloques de contrucción - 54
+       10. Pandereta - 52
+
+   -**Menos vendidos en Tienda 4**
+      1. Guitarra eléctrica - 33
+      2. Armario - 34
+      3. Guitarra Acústica - 37
+      4. Lavadora de ropa - 38
+      5. Refrigerador - 38
+      6. Ciencia de datos con Python  - 38
+      7. Celular ABXY - 39
+      8. Ajedrez de madera - 39
+      9. Smartwatch - 39
+      10. TV LED UHD 4K - 40
+
+**Fortalezas:**
+Resalta una combinación muy equilibrada entre mobiliario, decoración y entretenimiento, especialmente con productos como la cama box, la cubertería, la mesa de comedor y el entretenimiento infantil como carrito a control remoto y artículos educativos como Dashboard con Power BI.
+
+**Debilidades:**
+Artículos musicales (guitarras acústicas y eléctricas), electrónica de consumo (celular ABXY, smartwatch) y grandes electrodomésticos (lavadora, refrigerador) tienen un bajo desempeño en comparación con otras tiendas.
 
 
-- **Productos Más/Menos Vendidos**: identificar los top y bottom por volumen.  
-- **Costo Promedio de Envío**: calcular el envío medio por transacción.
 
 
 
-###  Gráficos para Visualización
-- Diseña **mínimo 3** gráficas diferentes para mostrar:
-  - Comparación de ingresos entre tiendas.  
-  - Distribución de ventas por categoría.  
-  - Relación precio–reseñas o costo de envío.  
-- Puede incluir:  
-  - Gráficos de barras  
-  - Gráficos circulares (pie charts)  
-  - Diagramas de dispersión  
-  - Mapas de calor, histogramas, etc.
+
 
 ##  Recomendación final
 Innforme breve donde  se indique **qué tienda** debe vender el Sr. Juan y **por qué**, fundamentando tu decisión en cinco aspectos clave:
