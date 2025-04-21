@@ -201,6 +201,11 @@ Resalta una combinación muy equilibrada entre mobiliario, decoración y entrete
 **Debilidades:**
 Artículos musicales (guitarras acústicas y eléctricas), electrónica de consumo (celular ABXY, smartwatch) y grandes electrodomésticos (lavadora, refrigerador) tienen un bajo desempeño en comparación con otras tiendas.
 
+-**Valor del envío promedio por tienda**
+      - El costo de envío promedio de la Tienda 1 es: **26,018.61**
+      - El costo de envío promedio de la Tienda 2 es: **25216.24**
+      - El costo de envío promedio de la Tienda 3 es: **24805.68**
+      - El costo de envío promedio de la Tienda 4 es: **23459.46**
 
 
 
@@ -208,7 +213,7 @@ Artículos musicales (guitarras acústicas y eléctricas), electrónica de consu
 
 
 ##  Recomendación final
-Innforme breve donde  se indique **qué tienda** debe vender el Sr. Juan y **por qué**, fundamentando tu decisión en cinco aspectos clave:
+Informe breve donde  se indique **qué tienda** debe vender el Sr. Juan y **por qué**, fundamentando tu decisión en cinco aspectos clave:
 1. Facturación total de cada tienda.  
 2. Categorías más populares en cada sucursal.  
 3. Promedio de evaluación de clientes.  
